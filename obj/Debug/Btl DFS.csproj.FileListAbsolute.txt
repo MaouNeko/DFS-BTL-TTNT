@@ -1,0 +1,10 @@
+D:\Game linh tinh\Btl DFS\bin\Debug\Btl DFS.exe.config
+D:\Game linh tinh\Btl DFS\bin\Debug\Btl DFS.exe
+D:\Game linh tinh\Btl DFS\bin\Debug\Btl DFS.pdb
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl DFS.csproj.AssemblyReference.cache
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl_DFS.Properties.Resources.resources
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl DFS.csproj.GenerateResource.cache
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl DFS.csproj.CoreCompileInputs.cache
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl DFS.exe
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl DFS.pdb
+D:\Game linh tinh\Btl DFS\obj\Debug\Btl_DFS.font1.resources
